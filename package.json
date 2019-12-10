@@ -1,6 +1,6 @@
 {
-  "name": "timezone-support",
-  "version": "0.0.0-development",
+  "name": "@pmjonesg/timezone-support",
+  "version": "0.0.1",
   "description": "Lightweight time zone support for your applications or other date libraries.",
   "author": {
     "name": "Ferdinand Prantl",
@@ -17,16 +17,16 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/prantlf/timezone-support/blob/master/LICENSE"
+      "url": "https://github.com/pmjonesg/timezone-support/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://github.com/prantlf/timezone-support#readme",
+  "homepage": "https://github.com/pmjonesg/timezone-support#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prantlf/timezone-support.git"
+    "url": "https://github.com/pmjonesg/timezone-support.git"
   },
   "bugs": {
-    "url": "https://github.com/prantlf/timezone-support/issues"
+    "url": "https://github.com/pmjonesg/timezone-support/issues"
   },
   "engines": {
     "node": ">=6"
